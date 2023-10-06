@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """meinErstesProgramm.py: Mein erstes Python Programm.
 Example:
     python meinErstesProgramm.py
