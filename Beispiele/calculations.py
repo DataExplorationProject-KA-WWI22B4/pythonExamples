@@ -16,3 +16,6 @@ print("4<(2*3)", 4<(2*3))
 
 a = 12 * 3.4
 print("a=", a)
+
+import math
+print(math.sin(a))
