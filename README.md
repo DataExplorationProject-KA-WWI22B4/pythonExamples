@@ -1,2 +1,3 @@
-# IntroDS_WWI23B4
-Introduction to Data Science 2023
+# Data Exploration Project 2024
+Beispielhaftes Repository um Funktionalitäten von GitHub zu zeigen
+
